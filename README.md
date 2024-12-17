@@ -1,4 +1,4 @@
-#Embedding Alignment without Parallel Data, based on FB Research Paper:
+# Embedding Alignment without Parallel Data, based on FB Research Paper:
 @misc{conneau2018wordtranslationparalleldata,
       title={Word Translation Without Parallel Data}, 
       author={Alexis Conneau and Guillaume Lample and Marc'Aurelio Ranzato and Ludovic Denoyer and Hervé Jégou},
